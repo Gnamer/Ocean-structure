@@ -1,2 +1,2 @@
 # Ocean-structure
-IT audited  equiement install all properity
+IT audit summary and solution
