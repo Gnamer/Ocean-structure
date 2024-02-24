@@ -1,4 +1,4 @@
-![Logo of the project](https://raw.githubusercontent.com/jehna/readme-best-practices/master/sample-logo.png)
+![Logo of the project](https://img1.wsimg.com/isteam/ip/90642299-4986-4366-a2ed-cc6a704ab72f/Asset%207.png/:/rs=h:96,cg:true,m/qt=q:100/ll)
 
 # Name of the project
 
