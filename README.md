@@ -1,8 +1,37 @@
 ![Logo of the project](https://img1.wsimg.com/isteam/ip/90642299-4986-4366-a2ed-cc6a704ab72f/Asset%207.png/:/rs=h:96,cg:true,m/qt=q:100/ll)
 
-# Name of the project
+# Documtent for System administration
 
-> Additional information or tagline
+> TODO: Set up repository for system administration documentation
+
+::checklist::
+
+- [ ] Set up repository
+- [ ] Create README.md
+- [ ] Create CONTRIBUTING.md
+- [ ] Create LICENSE.md
+- [ ] Create CODE_OF_CONDUCT.md
+- [ ] Create SECURITY.md
+- [ ] Create SUPPORT.md
+- [ ] Create ISSUE_TEMPLATE.md
+- [ ] Create PULL_REQUEST_TEMPLATE.md
+
+-[System administration](#system-administration)
+
+- [Installing / Getting started](#installing-getting-started)
+  - [Initial Configuration](#initial-configuration)
+- [Developing](#developing)
+  - [Building](#building)
+  - [Deploying / Publishing](#deploying-publishing)
+- [Features](#features)
+- [Configuration](#configuration)
+  - [Argument 1](#argument-1)
+  - [Argument 2](#argument-2)
+- [Contributing](#contributing)
+- [Links](#links)
+- [Licensing](#licensing)
+
+![](path) Additional information or tagline
 
 A brief description of your project, what it is used for and how does life get
 awesome when someone starts to use it.
