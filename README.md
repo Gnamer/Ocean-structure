@@ -4,7 +4,6 @@
 
 > TODO: Set up repository for system administration documentation
 
-::checklist::
 
 - [ ] Set up repository
 - [ ] Create README.md
